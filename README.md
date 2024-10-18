@@ -1,2 +1,2 @@
-"# ringpotato" 
-"# ringpotato" 
+ringpotato
+Tech HTML, CSS, JavaScript
